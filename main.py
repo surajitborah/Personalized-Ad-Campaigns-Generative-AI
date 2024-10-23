@@ -78,6 +78,7 @@ def main(args):
     # Create personalized ad campaigns (digital images) using the prompts generated in Step 2
     for i, ad_campaign_prompt in enumerate(ad_campaign_prompts_dict[dict_keys[0]]):
         p_prompt = ad_campaign_prompt["prompt"]
+        print("Personalized prompt: ", i, "\n", p_prompt)
         
         #Generate ad campaign for desktop
         image_url_desktop = gen_ad_campaign(p_prompt, "1792x1024")

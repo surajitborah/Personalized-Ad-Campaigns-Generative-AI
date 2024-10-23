@@ -4,7 +4,6 @@
 ```
 git clone https://github.com/surajitborah/Personalized-Ad-Campaigns-Generative-AI.git
 ```
-Run the code
 
 (2) Run the code by command
 ```

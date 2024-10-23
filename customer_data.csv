@@ -1,0 +1,51 @@
+Age,Gender,Occupation,Location,Marital Status,Family Size,Values,Interests,Desires,Goals,Lifestyle Choices,Social Status,Attitudes,Fears,Income,Net Worth,Credit Score,Debt-to-Income Ratio,Investment Portfolio,Product Usage,Purchase History,Customer Loyalty,Digital Channel Preference/Usage,Online Activity
+35,Female,Doctor,Perth,Divorced,3,Family,Cooking,Health,Travel,Traditional,Middle Class,Realistic,Loneliness,144738,575860,661,0.26,Real Estate,Occasional,Electronics,Medium,Website,Social Networking
+58,Non-binary,Lawyer,Adelaide,Divorced,4,Community,Gaming,Happiness,Financial Independence,Urban,Upper Middle Class,Optimistic,Failure,72129,364405,788,0.37,Stocks,Rare,Home Goods,Medium,Mobile App,Social Networking
+64,Female,Lawyer,Sydney,Widowed,2,Integrity,Travel,Wealth,Education,Urban,Upper Middle Class,Realistic,Failure,31447,97551,783,0.42,Real Estate,Frequent,Home Goods,Medium,Mobile App,Gaming
+27,Female,Scientist,Newcastle,Divorced,3,Family,Gaming,Wealth,Fitness,Urban,Upper Class,Realistic,Failure,91901,648695,755,0.18,Stocks,Rare,Home Goods,Medium,Mobile App,Learning
+52,Female,Nurse,Sydney,Widowed,3,Integrity,Technology,Happiness,Travel,Urban,Upper Middle Class,Realistic,Rejection,80828,74260,844,0.33,Mutual Funds,Occasional,Clothing,Medium,Email,Gaming
+57,Non-binary,Manager,Sydney,Divorced,5,Family,Travel,Knowledge,Education,Traditional,Upper Class,Pessimistic,Loneliness,65443,19739,842,0.07,Cryptocurrency,Frequent,Groceries,High,Website,Learning
+19,Female,Lawyer,Newcastle,Widowed,2,Family,Sports,Adventure,Education,Eco-friendly,Lower Class,Realistic,Failure,76951,683886,492,0.18,Mutual Funds,Rare,Electronics,Medium,Mobile App,Shopping
+45,Female,Scientist,Newcastle,Married,2,Family,Reading,Adventure,Fitness,Eco-friendly,Upper Class,Optimistic,Failure,41021,407625,588,0.0,Mutual Funds,Frequent,Electronics,High,Email,Gaming
+62,Female,Sales,Brisbane,Married,4,Integrity,Travel,Health,Financial Independence,Eco-friendly,Lower Class,Optimistic,Loneliness,38788,226589,684,0.27,Mutual Funds,Never,Home Goods,Low,Social Media,Learning
+26,Male,Nurse,Gold Coast,Divorced,2,Innovation,Cooking,Happiness,Career Advancement,Urban,Upper Class,Realistic,Financial Instability,72494,163438,608,0.09,Stocks,Frequent,Groceries,Medium,Social Media,Learning
+67,Male,Technician,Newcastle,Divorced,4,Integrity,Arts,Happiness,Financial Independence,Urban,Upper Middle Class,Realistic,Rejection,130390,737746,712,0.37,Cryptocurrency,Occasional,Toys,High,Website,Gaming
+25,Male,Teacher,Wollongong,Single,4,Integrity,Sports,Adventure,Travel,Luxury,Lower Class,Idealistic,Loneliness,88808,462206,597,0.43,Real Estate,Frequent,Groceries,Medium,Social Media,Learning
+27,Male,Manager,Newcastle,Divorced,2,Integrity,Travel,Knowledge,Travel,Minimalist,Lower Class,Pessimistic,Rejection,134313,150614,413,0.21,Mutual Funds,Rare,Toys,Low,Social Media,Learning
+34,Female,Manager,Newcastle,Married,1,Family,Travel,Happiness,Education,Urban,Lower Class,Pessimistic,Financial Instability,65202,987462,688,0.4,Bonds,Rare,Electronics,Low,Social Media,Shopping
+43,Female,Engineer,Melbourne,Divorced,3,Family,Travel,Wealth,Financial Independence,Minimalist,Lower Class,Idealistic,Financial Instability,64739,504709,799,0.43,Stocks,Occasional,Toys,Low,Email,Shopping
+42,Female,Sales,Logan City,Single,2,Family,Technology,Adventure,Career Advancement,Eco-friendly,Middle Class,Idealistic,Rejection,50668,56533,355,0.14,Cryptocurrency,Frequent,Clothing,Low,Mobile App,Gaming
+58,Male,Manager,Adelaide,Married,4,Integrity,Travel,Happiness,Travel,Urban,Middle Class,Pessimistic,Failure,55057,151939,800,0.25,Stocks,Occasional,Clothing,High,Social Media,Social Networking
+22,Non-binary,Technician,Wollongong,Divorced,2,Family,Reading,Health,Career Advancement,Eco-friendly,Middle Class,Idealistic,Rejection,148548,136545,354,0.12,Real Estate,Rare,Home Goods,Low,Social Media,Streaming
+42,Non-binary,Scientist,Logan City,Widowed,1,Integrity,Cooking,Knowledge,Travel,Luxury,Lower Class,Idealistic,Loneliness,102353,582051,695,0.44,Bonds,Rare,Toys,High,Mobile App,Social Networking
+50,Male,Doctor,Melbourne,Married,4,Family,Arts,Wealth,Financial Independence,Traditional,Lower Class,Pessimistic,Rejection,63765,227353,609,0.32,Stocks,Rare,Electronics,Low,Website,Social Networking
+57,Male,Scientist,Canberra,Married,2,Integrity,Reading,Health,Career Advancement,Eco-friendly,Upper Class,Idealistic,Failure,31033,195134,448,0.4,Stocks,Frequent,Toys,High,Website,Learning
+19,Non-binary,Technician,Melbourne,Widowed,2,Integrity,Sports,Wealth,Fitness,Minimalist,Upper Class,Optimistic,Failure,35445,789643,786,0.22,Cryptocurrency,Frequent,Home Goods,Low,Social Media,Social Networking
+66,Male,Nurse,Gold Coast,Divorced,2,Sustainability,Reading,Knowledge,Fitness,Traditional,Lower Class,Optimistic,Failure,33311,423834,474,0.0,Real Estate,Occasional,Home Goods,High,Mobile App,Shopping
+65,Female,Manager,Canberra,Divorced,2,Community,Technology,Wealth,Career Advancement,Luxury,Upper Class,Pessimistic,Failure,130201,865023,581,0.05,Bonds,Frequent,Toys,Low,Social Media,Shopping
+34,Female,Teacher,Logan City,Divorced,4,Family,Cooking,Happiness,Career Advancement,Traditional,Lower Class,Idealistic,Loneliness,124008,373065,389,0.29,Stocks,Rare,Electronics,High,Mobile App,Learning
+33,Female,Sales,Brisbane,Widowed,2,Integrity,Gaming,Wealth,Travel,Minimalist,Upper Middle Class,Optimistic,Financial Instability,127206,811235,336,0.06,Bonds,Occasional,Toys,High,Website,Streaming
+25,Non-binary,Artist,Melbourne,Single,3,Family,Technology,Knowledge,Financial Independence,Eco-friendly,Upper Class,Idealistic,Loneliness,31143,464853,648,0.13,Stocks,Never,Home Goods,High,Email,Streaming
+65,Female,Doctor,Logan City,Divorced,5,Community,Cooking,Health,Travel,Minimalist,Middle Class,Pessimistic,Failure,61448,47175,332,0.45,Real Estate,Frequent,Groceries,Low,Website,Gaming
+52,Female,Technician,Perth,Married,2,Community,Technology,Wealth,Travel,Eco-friendly,Lower Class,Optimistic,Rejection,113532,862489,799,0.32,Cryptocurrency,Frequent,Electronics,High,Website,Gaming
+46,Non-binary,Nurse,Newcastle,Single,2,Innovation,Cooking,Adventure,Education,Eco-friendly,Lower Class,Optimistic,Failure,114842,540006,412,0.29,Real Estate,Occasional,Groceries,High,Website,Gaming
+35,Male,Technician,Newcastle,Single,1,Family,Cooking,Happiness,Travel,Minimalist,Middle Class,Pessimistic,Financial Instability,34579,316287,560,0.15,Cryptocurrency,Occasional,Groceries,High,Email,Social Networking
+65,Female,Sales,Wollongong,Widowed,3,Family,Cooking,Wealth,Financial Independence,Minimalist,Upper Class,Realistic,Financial Instability,40029,300586,407,0.22,Mutual Funds,Never,Home Goods,Low,Social Media,Social Networking
+32,Female,Artist,Newcastle,Married,5,Community,Reading,Knowledge,Education,Luxury,Lower Class,Realistic,Rejection,95140,301167,687,0.27,Cryptocurrency,Occasional,Home Goods,Medium,Social Media,Shopping
+34,Male,Sales,Logan City,Divorced,1,Family,Gaming,Health,Travel,Traditional,Upper Middle Class,Realistic,Financial Instability,56858,60427,490,0.07,Cryptocurrency,Occasional,Home Goods,High,Social Media,Gaming
+68,Non-binary,Nurse,Wollongong,Divorced,2,Sustainability,Technology,Adventure,Career Advancement,Eco-friendly,Middle Class,Pessimistic,Financial Instability,112151,643551,596,0.45,Bonds,Never,Clothing,Low,Email,Streaming
+63,Male,Artist,Sydney,Single,1,Integrity,Gaming,Wealth,Financial Independence,Traditional,Lower Class,Realistic,Loneliness,117392,746060,819,0.36,Cryptocurrency,Rare,Home Goods,High,Social Media,Gaming
+69,Non-binary,Technician,Canberra,Married,3,Community,Sports,Wealth,Travel,Eco-friendly,Upper Class,Optimistic,Loneliness,107337,595883,589,0.34,Stocks,Never,Home Goods,High,Social Media,Gaming
+49,Female,Engineer,Gold Coast,Single,3,Family,Technology,Health,Fitness,Luxury,Upper Middle Class,Optimistic,Loneliness,76020,839788,449,0.47,Stocks,Occasional,Toys,High,Mobile App,Streaming
+25,Male,Technician,Newcastle,Single,2,Family,Cooking,Knowledge,Education,Traditional,Lower Class,Realistic,Rejection,97693,137495,576,0.35,Stocks,Never,Clothing,High,Website,Shopping
+20,Female,Lawyer,Canberra,Divorced,3,Integrity,Reading,Wealth,Education,Urban,Upper Class,Optimistic,Rejection,65394,280485,403,0.42,Mutual Funds,Never,Electronics,Medium,Website,Streaming
+43,Non-binary,Doctor,Canberra,Divorced,4,Community,Technology,Health,Financial Independence,Luxury,Lower Class,Optimistic,Loneliness,74421,223088,706,0.32,Mutual Funds,Frequent,Groceries,High,Website,Shopping
+27,Female,Teacher,Logan City,Divorced,5,Sustainability,Gaming,Health,Career Advancement,Minimalist,Lower Class,Pessimistic,Failure,144402,980854,615,0.11,Real Estate,Frequent,Groceries,Low,Website,Learning
+67,Female,Nurse,Gold Coast,Single,5,Community,Arts,Health,Travel,Eco-friendly,Upper Class,Pessimistic,Financial Instability,79233,658679,470,0.17,Stocks,Occasional,Electronics,Medium,Social Media,Shopping
+63,Non-binary,Teacher,Perth,Widowed,4,Integrity,Technology,Knowledge,Travel,Traditional,Lower Class,Optimistic,Financial Instability,32310,457706,306,0.08,Stocks,Frequent,Home Goods,Low,Mobile App,Shopping
+21,Female,Manager,Wollongong,Divorced,4,Community,Reading,Adventure,Fitness,Luxury,Upper Class,Pessimistic,Rejection,35275,762446,677,0.26,Mutual Funds,Occasional,Electronics,High,Website,Shopping
+26,Female,Nurse,Canberra,Divorced,3,Integrity,Arts,Wealth,Fitness,Minimalist,Upper Middle Class,Realistic,Failure,115479,56536,816,0.26,Cryptocurrency,Rare,Clothing,Low,Website,Shopping
+46,Non-binary,Artist,Newcastle,Divorced,3,Integrity,Cooking,Wealth,Career Advancement,Luxury,Middle Class,Pessimistic,Financial Instability,36354,198947,537,0.49,Stocks,Rare,Home Goods,High,Mobile App,Social Networking
+32,Male,Manager,Wollongong,Single,4,Sustainability,Technology,Wealth,Education,Minimalist,Upper Class,Pessimistic,Rejection,136662,833087,614,0.32,Cryptocurrency,Rare,Electronics,High,Mobile App,Gaming
+40,Female,Nurse,Melbourne,Widowed,5,Sustainability,Travel,Health,Financial Independence,Eco-friendly,Upper Middle Class,Realistic,Financial Instability,71130,186581,394,0.29,Stocks,Occasional,Groceries,Low,Mobile App,Learning
+36,Male,Teacher,Brisbane,Divorced,5,Community,Reading,Wealth,Fitness,Traditional,Upper Class,Pessimistic,Loneliness,117558,526623,638,0.1,Real Estate,Rare,Groceries,Low,Mobile App,Shopping

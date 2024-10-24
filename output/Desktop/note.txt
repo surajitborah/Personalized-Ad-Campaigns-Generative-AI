@@ -1,0 +1,2 @@
+python main.py --index idx #idx range 0 to 49
+The images generated for Desktop will be stored inside this folder

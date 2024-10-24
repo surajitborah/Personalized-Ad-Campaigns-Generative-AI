@@ -1,0 +1,42 @@
+Personal data:
+Age: 35
+Gender: Male
+Occupation: Technician
+Location: Newcastle
+Marital Status: Single
+Family Size: 1
+Values: Family
+Interests: Cooking
+Desires: Happiness
+Goals: Travel
+Lifestyle Choices: Minimalist
+Social Status: Middle Class
+Attitudes: Pessimistic
+Fears: Financial Instability
+Income: 34579
+Net Worth: 316287
+Credit Score: 560
+Debt-to-Income Ratio: 0.15
+Investment Portfolio: Cryptocurrency
+Product Usage: Occasional
+Purchase History: Groceries
+Customer Loyalty: High
+Digital Channel Preference/Usage: Email
+Online Activity: Social Networking
+
+******************************
+Prompts created by gpt-4o-mini:
+Personalized prompt:  0
+ Create a visual campaign featuring a serene landscape of Newcastle with a minimalist design. Showcase a happy male technician cooking in a cozy kitchen, with the tagline: 'Secure your family's happiness with our personal loans for your travel dreams!'. Highlight the loan product as a means to financial stability.
+{'prompt': "Design a vibrant email campaign targetting our middle-class customers. Use an image of a joyful single man exploring a new destination, holding a suitcase. Include the text: 'Turn your travel dreams into reality with the right financial support - Personal Loans for Your Journeys', emphasizing secure financial choices.", 'imageSuggestions': ['man traveling with a suitcase', 'stunning travel destinations', 'happy family images']}
+Personalized prompt:  1
+ Design a vibrant email campaign targetting our middle-class customers. Use an image of a joyful single man exploring a new destination, holding a suitcase. Include the text: 'Turn your travel dreams into reality with the right financial support - Personal Loans for Your Journeys', emphasizing secure financial choices.
+{'prompt': "Create an infographic that illustrates how personal loans can help manage financial stability and support a minimalist lifestyle. Use images of a technician enjoying cooking time at home, and travel moments. Title it 'Smart Loans for Smart Choices: Balance Your Life'.", 'imageSuggestions': ['technician at home', 'cooking and travel images', 'minimalist lifestyle visuals']}
+Personalized prompt:  2
+ Create an infographic that illustrates how personal loans can help manage financial stability and support a minimalist lifestyle. Use images of a technician enjoying cooking time at home, and travel moments. Title it 'Smart Loans for Smart Choices: Balance Your Life'.
+{'prompt': "Develop a social media carousel post that shows a day in the life of a 35-year-old technician. Include images of him cooking, budgeting, and dreaming about travel. Use captions that connect each aspect to the peace of mind personal loans can bring: 'Live Your Best Life: Personal Loans for Every Journey'.", 'imageSuggestions': ['daily life of a technician', 'cooking scenes', 'travel dream visuals']}
+Personalized prompt:  3
+ Develop a social media carousel post that shows a day in the life of a 35-year-old technician. Include images of him cooking, budgeting, and dreaming about travel. Use captions that connect each aspect to the peace of mind personal loans can bring: 'Live Your Best Life: Personal Loans for Every Journey'.
+{'prompt': "Craft a heartfelt email banner that resonates with customers' values. Feature a warm image of a single technician cooking for his family, combined with a travel photo. At the center, write 'Empower Your Happiness through Personal Loans'. Emphasize investment in experiences over material possessions.", 'imageSuggestions': ['family cooking together', 'travel imagery', 'happy moments']}
+Personalized prompt:  4
+ Craft a heartfelt email banner that resonates with customers' values. Feature a warm image of a single technician cooking for his family, combined with a travel photo. At the center, write 'Empower Your Happiness through Personal Loans'. Emphasize investment in experiences over material possessions.

@@ -1,0 +1,38 @@
+Personal data:
+Age: 27
+Gender: Female
+Occupation: Scientist
+Location: Newcastle
+Marital Status: Divorced
+Family Size: 3
+Values: Family
+Interests: Gaming
+Desires: Wealth
+Goals: Fitness
+Lifestyle Choices: Urban
+Social Status: Upper Class
+Attitudes: Realistic
+Fears: Failure
+Income: 91901
+Net Worth: 648695
+Credit Score: 755
+Debt-to-Income Ratio: 0.18
+Investment Portfolio: Stocks
+Product Usage: Rare
+Purchase History: Home Goods
+Customer Loyalty: Medium
+Digital Channel Preference/Usage: Mobile App
+Online Activity: Learning
+
+******************************
+Prompts created by gpt-4o-mini:
+Personalized prompt:  0
+ Design a vibrant mobile app advertisement showcasing personalized loan solutions for a 27-year-old female scientist from Newcastle. Emphasize her urban lifestyle and family values, featuring visuals that resonate with her as a dedicated mother of three. Include a tagline such as 'Empower Your Family's Future' with imagery of a happy family enjoying life together, evoking a sense of security and wealth.
+Personalized prompt:  1
+ Create a social media campaign graphic tailored for a 27-year-old female gamer and scientist, highlighting a personal loan product that can help her finance fitness goals. Use motifs from gaming culture to engage her interests, such as pixel art or game controller imagery, paired with motivational messages about investing in her health and future.
+Personalized prompt:  2
+ Develop a sleek infographic for her mobile app, explaining the benefits of the bank's personal loan for achieving wealth and financial independence. Include data points relevant to her strong credit score (755) and low debt-to-income ratio (0.18), reinforcing her realistic attitudes toward finance while providing actionable steps to enhance her investment portfolio.
+Personalized prompt:  3
+ Design a personalized email newsletter featuring a success story of a similar customer who used a personal loan to balance gaming and fitness interests while enhancing their family lifestyle. Use a relatable narrative style and include engaging images of family activities, fitness journeys, and gaming to showcase how the loan has positively impacted their lives.
+Personalized prompt:  4
+ Craft a targeted advertisement for the mobile app that focuses on the potential of personal loans for wealth generation. Highlight her upper-class social status with luxurious imagery and aspirational content about the journey from financial planning to achieving goals in fitness and family life, reinforcing her desire for affluent living without fear of failure.

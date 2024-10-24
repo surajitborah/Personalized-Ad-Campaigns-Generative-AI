@@ -1,0 +1,42 @@
+Personal data:
+Age: 64
+Gender: Female
+Occupation: Lawyer
+Location: Sydney
+Marital Status: Widowed
+Family Size: 2
+Values: Integrity
+Interests: Travel
+Desires: Wealth
+Goals: Education
+Lifestyle Choices: Urban
+Social Status: Upper Middle Class
+Attitudes: Realistic
+Fears: Failure
+Income: 31447
+Net Worth: 97551
+Credit Score: 783
+Debt-to-Income Ratio: 0.42
+Investment Portfolio: Real Estate
+Product Usage: Frequent
+Purchase History: Home Goods
+Customer Loyalty: Medium
+Digital Channel Preference/Usage: Mobile App
+Online Activity: Gaming
+
+******************************
+Prompts created by gpt-4o-mini:
+Personalized prompt:  0
+ Create a visual campaign showcasing a travel-themed personal loan product aimed at a 64-year-old female lawyer from Sydney. Highlight her integrity and realistic attitude by emphasizing the financial freedom that comes with responsible borrowing, helping her achieve her desire for wealth and education while maintaining an urban lifestyle.
+{'prompt': 'Design a campaign focused on educational opportunities for a widowed 64-year-old female lawyer in Sydney. Use visuals that depict advanced learning environments and travel-related education, addressing her family of 2. Emphasize her values and realistic approach to finances with a call to action that resonates with her mobile app usage.', 'elements': {'colors': ['green', 'silver'], 'imagery': ['students in a classroom', 'travel workshops'], 'font': 'modern'}}
+Personalized prompt:  1
+ Design a campaign focused on educational opportunities for a widowed 64-year-old female lawyer in Sydney. Use visuals that depict advanced learning environments and travel-related education, addressing her family of 2. Emphasize her values and realistic approach to finances with a call to action that resonates with her mobile app usage.
+{'prompt': 'Develop a visual campaign that symbolizes wealth and security for a 64-year-old female lawyer. Incorporate elements of her investment in real estate and her upper middle-class lifestyle. Highlight her credit score of 783 and financial stability, promoting features of the personal loan that can enhance her travel experience.', 'elements': {'colors': ['purple', 'white'], 'imagery': ['luxurious homes', 'travel adventures'], 'font': 'elegant'}}
+Personalized prompt:  2
+ Develop a visual campaign that symbolizes wealth and security for a 64-year-old female lawyer. Incorporate elements of her investment in real estate and her upper middle-class lifestyle. Highlight her credit score of 783 and financial stability, promoting features of the personal loan that can enhance her travel experience.
+{'prompt': 'Craft a campaign that connects digital engagement with financial growth for a 64-year-old female user of a mobile banking app in Sydney. Use gaming motifs to attract her online activity interests while showcasing the personal loan product as a way to fulfill her educational goals and travel aspirations.', 'elements': {'colors': ['orange', 'navy'], 'imagery': ['game-like graphics', 'educational symbols'], 'font': 'playful'}}
+Personalized prompt:  3
+ Craft a campaign that connects digital engagement with financial growth for a 64-year-old female user of a mobile banking app in Sydney. Use gaming motifs to attract her online activity interests while showcasing the personal loan product as a way to fulfill her educational goals and travel aspirations.
+{'prompt': 'Create a heartfelt campaign targeting a 64-year-old widowed female lawyer, focusing on the importance of financial integrity in her journey of achieving wealth. Use visuals that evoke a sense of family and connection, ensuring to address her realistic fears of failure while emphasizing the support and resources the bank offers through personal loans.', 'elements': {'colors': ['teal', 'brown'], 'imagery': ['family gatherings', 'supportive environments'], 'font': 'warm and inviting'}}
+Personalized prompt:  4
+ Create a heartfelt campaign targeting a 64-year-old widowed female lawyer, focusing on the importance of financial integrity in her journey of achieving wealth. Use visuals that evoke a sense of family and connection, ensuring to address her realistic fears of failure while emphasizing the support and resources the bank offers through personal loans.
